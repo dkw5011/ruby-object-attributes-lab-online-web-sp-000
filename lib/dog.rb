@@ -12,3 +12,7 @@ class Dog
   end
   
 end
+
+def initialize
+  @breed
+end
